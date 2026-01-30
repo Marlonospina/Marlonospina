@@ -1,5 +1,7 @@
 
-![Banner de Marlon](banner_marlon.png)
+<p align="center">
+  <img src="banner_marlon.png" alt="Banner de Marlon" width="100%">
+</p>
 # ¡Hola, soy Marlon! 👋
 
 Estoy iniciando mi camino en el desarrollo de software.
